@@ -16,28 +16,42 @@
 <li><p id="p6" data-pid="6" class="sn"> 9:50 ‘Esperar ansiosamente por Jeová’ — Como? | <strong>Orador:</strong> <input class="du-borderStyle--1" type="text" id="tt1" name="text-1"></p>
 
 
+<div class="gen-field">
 <label for="tt100" id="tt100" class="dc-screenReaderText"></label>
-<textarea id="tt100" class="textarea-100" name="textarea-100"></textarea>
+<textarea id="tt100" class="du-borderStyle--none" name="textarea-1"></textarea>
+</div>
+
 
 </li>
 <li><p id="p7" data-pid="7" class="sn">10:05 <strong>Série de discursos:</strong> Imite aqueles que esperaram ansiosamente</p>
 <ul class="source"><li><p id="p8" data-pid="8" class="s7">Habacuque | <strong>Orador:</strong> <input class="du-borderStyle--1" type="text" id="tt1" name="text-1"></p></p>
 </li>
 
+<!anotação Simpósio - Habacuque>
+<div class="gen-field">
 <label for="tt101" id="tt101" class="dc-screenReaderText"></label>
-<textarea id="tt101" class="textarea-101" name="textarea-101"></textarea>
+<textarea id="tt101" class="du-borderStyle--none" name="textarea-1"></textarea>
+</div>
+
 
 <li><p id="p9" data-pid="9" class="s7">João | <strong>Orador:</strong> <input class="du-borderStyle--1" type="text" id="tt1" name="text-1"></p></p>
 </li>
 
+<!anotação Simpósio - João>
+<div class="gen-field">
 <label for="tt102" id="tt102" class="dc-screenReaderText"></label>
-<textarea id="tt102" class="textarea-102" name="textarea-102"></textarea>
+<textarea id="tt102" class="du-borderStyle--none" name="textarea-1"></textarea>
+</div>
 
 <li><p id="p10" data-pid="10" class="s7">Ana | <strong>Orador:</strong> <input class="du-borderStyle--1" type="text" id="tt1" name="text-1"></p></p>
 </li>
 
+
+<!anotação Simpósio - Ana>
+<div class="gen-field">
 <label for="tt103" id="tt103" class="dc-screenReaderText"></label>
-<textarea id="tt103" class="textarea-103" name="textarea-103"></textarea>
+<textarea id="tt103" class="du-borderStyle--none" name="textarea-1"></textarea>
+</div>
 
 </ul>
 </li>
@@ -46,14 +60,20 @@
 <li><p id="p12" data-pid="12" class="sn">11:15 O que você está esperando? | <strong>Orador:</strong> <input class="du-borderStyle--1" type="text" id="tt1" name="text-1"></p></p>
 </li>
 
+<!anotação 11:15>
+<div class="gen-field">
 <label for="tt104" id="tt104" class="dc-screenReaderText"></label>
-<textarea id="tt104" class="textarea-104" name="textarea-104"></textarea>
+<textarea id="tt104" class="du-borderStyle--none" name="textarea-1"></textarea>
+</div>
 
 <li><p id="p13" data-pid="13" class="sn">11:30 Dedicação e batismo | <strong>Orador:</strong> <input class="du-borderStyle--1" type="text" id="tt1" name="text-1"></p></p>
 </li>
 
+<!anotação 11:30>
+<div class="gen-field">
 <label for="tt105" id="tt105" class="dc-screenReaderText"></label>
-<textarea id="tt105" class="textarea-105" name="textarea-105"></textarea>
+<textarea id="tt105" class="du-borderStyle--none" name="textarea-1"></textarea>
+</div>
 
 <li><p id="p14" data-pid="14" class="sn">12:00 <a class="xt" data-xtid="3" href="jwpub://p/T:1102016828/">Cântico 28</a></p>
 </li>
@@ -73,8 +93,11 @@
 <li><p id="p18" data-pid="18" class="sn"> 1:30 <strong>Discurso para o público:</strong> Será que a paciência ainda tem valor? | <strong>Orador:</strong> <input class="du-borderStyle--1" type="text" id="tt1" name="text-1"></p></p>
 </li>
 
+<!anotação 1:30>
+<div class="gen-field">
 <label for="tt106" id="tt106" class="dc-screenReaderText"></label>
-<textarea id="tt106" class="textarea-106" name="textarea-106"></textarea>
+<textarea id="tt106" class="du-borderStyle--none" name="textarea-1"></textarea>
+</div>
 
 
 
@@ -89,35 +112,47 @@
 <ul class="source"><li><p id="p22" data-pid="22" class="s7">Quando se sentir sozinho | <strong>Orador:</strong> <input class="du-borderStyle--1" type="text" id="tt1" name="text-1"></p></p>
 </li>
 
+<!anotação Simposio 1>
+<div class="gen-field">
 <label for="tt107" id="tt107" class="dc-screenReaderText"></label>
-<textarea id="tt107" class="textarea-107" name="textarea-107"></textarea>
+<textarea id="tt107" class="du-borderStyle--none" name="textarea-1"></textarea>
+</div>
 
 <li><p id="p23" data-pid="23" class="s7">Quando você cometer erros | <strong>Orador:</strong> <input class="du-borderStyle--1" type="text" id="tt1" name="text-1"></p></p>
 </li>
 
+<!anotação Simposio 2>
+<div class="gen-field">
 <label for="tt108" id="tt108" class="dc-screenReaderText"></label>
-<textarea id="tt108" class="textarea-108" name="textarea-108"></textarea>
+<textarea id="tt108" class="du-borderStyle--none" name="textarea-1"></textarea>
+</div>
 
 <li><p id="p24" data-pid="24" class="s7">Quando os maus forem bem-sucedidos | <strong>Orador:</strong> <input class="du-borderStyle--1" type="text" id="tt1" name="text-1"></p></p>
 </li>
-<label for="tt109" id="tt109" class="dc-screenReaderText"></label>
-<textarea id="tt109" class="textarea-109" name="textarea-109"></textarea>
-</ul>
 
+<!anotação Simposio 3>
+<div class="gen-field">
+<label for="tt109" id="tt109" class="dc-screenReaderText"></label>
+<textarea id="tt109" class="du-borderStyle--none" name="textarea-1"></textarea>
+</div>
 
 </li>
+</ul>
 
 
 
 <li><p id="p25" data-pid="25" class="sn"> 3:40 “Há uma recompensa para o justo” | <strong>Orador:</strong> <input class="du-borderStyle--1" type="text" id="tt1" name="text-1"></p></p>
 </li>
 
+<!anotação 3:40>
+<div class="gen-field">
 <label for="tt110" id="tt110" class="dc-screenReaderText"></label>
-<textarea id="tt110" class="textarea-110" name="textarea-110"></textarea>
+<textarea id="tt110" class="du-borderStyle--none" name="textarea-1"></textarea>
+</div>
 
-<li><p id="p26" data-pid="26" class="sn"> 4:15 <a class="xt" data-xtid="6" href="jwpub://p/T:1102016940/">Cântico 140</a> e oração | <input class="du-borderStyle--1" type="text" id="tt1" name="text-1"></p></p></p>
+
+<li><p id="p26" data-pid="26" class="sn"> 4:15 <a class="xt" data-xtid="6" href="jwpub://p/T:1102016940/">Cântico 140</a> e oração </p></p>
 </li>
-</ul>
 </div>
 </div>
 </div>
